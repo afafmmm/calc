@@ -18,3 +18,5 @@ function testSubtract(){
 	console.log(subtract(2, 1) === 1);
 
 }
+
+test
